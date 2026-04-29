@@ -1,0 +1,4 @@
+tests/math.test.ts
+src/math.ts
+.env
+node_modules
